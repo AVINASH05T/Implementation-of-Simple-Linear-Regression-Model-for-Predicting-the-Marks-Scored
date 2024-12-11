@@ -61,7 +61,7 @@ mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-```c
+```
 
 ## Output:
 ![Screenshot 2024-08-30 114254](https://github.com/user-attachments/assets/ae333482-d5bf-4527-9182-2c8690b740f6)
